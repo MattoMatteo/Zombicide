@@ -1,0 +1,6 @@
+//Zone Tessera 1B Angolo 0
+numero_zona x y x_dim_ y_dim cercabile(0:no 1:si) su_fusione giù_fusione dx_fusione sx_fusione (0:no 1:si) fila_zona su_muro  dx_muro giù_muro sx_muro (0:no 1:si) -1(fine)
+//Porte
+x,y zona1 zona2 (se zona fuori tessera: -1 su, -2 giù, -3 dx, -4 sx) -1(fine)
+//Tombini
+zona -2(fine file)

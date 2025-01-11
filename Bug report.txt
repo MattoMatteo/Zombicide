@@ -1,0 +1,7 @@
+BUGS:
+
+-Con Flashalight non mi ha trovato 2 oggetti ma 1
+-Zona con 4 walker e 1 abominio. Non si sono accaniti tutti gli zombi sul personaggiod a uccidere. A quanto pare solo l'abominio mentre i walker hanno camminato
+-Personaggio con 1 ferita. Subisce 1 ferita ma in teoria ha in mano la maschera. Muore subito senza potersi proteggere.
+-Morti 3 personaggio me ne rimangono 3. Apparentemente dopo che ho finito il turno con il primo personaggio senza terminare le azioni, gli zombie fanno un turno e ritorno al personaggio di prima con ancora le sue azioni rimanenti.
+-Crashato dopo un attacco. Motosega con 5 dadi: 3 su 5 riusciti. 1 solo zombi da uccidere. Dopo il click dell'uccisione dello zombie il gioco ha crashato
